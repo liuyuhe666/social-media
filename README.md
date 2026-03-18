@@ -1,6 +1,6 @@
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://liuyuhe666.github.io)
 [![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/liuyuhe666)
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cnliuyuhe)
-[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cnliuyuhe)
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/liuyuhe666)
 [![WeChat](https://img.shields.io/badge/wechat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://raw.githubusercontent.com/lyh-gzh/.github/refs/heads/main/assets/gzh-qrcode.png)
 [![Bilibili](https://img.shields.io/badge/bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/3706938082724637)
